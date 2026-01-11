@@ -1,0 +1,16 @@
+   48  \n
+   49  git push -u origin main
+   50  history
+   51  ls -lrt
+   52  git add sai_mp3_player_slick_theme_voice_autoplay_tts_mac_tts_fixed.py
+   53  git commit -m "fix for Mac"
+   54  git branch -M main
+   55  git remote add origin https://github.com/deepaknagarajan/mp3_player_custom.git
+   56  git add .gitignore
+   57  git commit -m "fix for Mac"
+   58  git add .
+   59  git commit -m "fix for Mac"
+   60  git remote add origin https://github.com/deepaknagarajan/mp3_player_custom.git
+   61  git remote add origin https://github.com/deepaknagarajan/sai-mp3-player.git
+   62  git push -u origin main
+   63  history
